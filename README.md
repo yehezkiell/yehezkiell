@@ -7,8 +7,8 @@
 - 🏃 Out of my coding and working life, I love history and fish!
 
 ### Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
 ### Stats!
 <img align="center" alt="Yehezkiel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yehezkiell&show_icons=true&count_private=true&theme=dracula" />
