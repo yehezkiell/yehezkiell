@@ -6,9 +6,10 @@
 - 💻 Currently making a curated android technology repository for learning
 - 🏃 Out of my coding and working life, I love history and fish!
 
+
 ### Blog posts
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ### Stats!
