@@ -1,18 +1,20 @@
 ## Hi there, I'm Yehezkiel 👋
+[![Github](https://img.shields.io/badge/-Medium-000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@yehezkiell)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yehezkiell/)
 
-### 🐟 About me!
+**🐟 About me!**
 - 🌄 New things explorer
 - 🔭 Software Engineer Android at Tokopedia
 - 💻 Currently making a curated android technology repository for learning
 - 🏃 Out of my coding and working life, I love history and fish!
 
 
-### 📕 Latest Blog Posts
+**📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Migrating Dagger Android Into Hilt!](https://medium.com/tokopedia-engineering/migrating-dagger-android-into-hilt-7fd3f6a9e641?source=rss-504480584fd3------2)
 <!-- BLOG-POST-LIST:END -->
 
-### ⭐ Language and Tools!
+**⭐ Languages and Tools!**
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
     <img width="55%" align="right" alt="Yehezkiel's github stats" src="https://github-readme-stats.vercel.app/api?username=yehezkiell&show_icons=true&count_private=true&theme=dracula" />
