@@ -23,7 +23,7 @@
 
 **⭐ Languages and Tools!**
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
+  <a href="https://github.com/yehezkiell">
     <img width="55%" align="right" alt="Yehezkiel's github stats" src="https://github-readme-stats.vercel.app/api?username=yehezkiell&show_icons=true&count_private=true&theme=dracula" />
   </a>
 
