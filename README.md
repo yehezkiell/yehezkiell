@@ -14,6 +14,7 @@
   
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Tokopedia Android App Journey to Support Dark Mode](https://medium.com/tokopedia-engineering/tokopedia-android-app-journey-to-support-dark-mode-71c0beec8668)
 - [Migrating Dagger Android Into Hilt!](https://medium.com/tokopedia-engineering/migrating-dagger-android-into-hilt-7fd3f6a9e641?source=rss-504480584fd3------2)
 <!-- BLOG-POST-LIST:END -->
 
